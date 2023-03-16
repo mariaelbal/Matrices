@@ -9,7 +9,8 @@ import java.util.Scanner;
 /**
  *
  * @author lucasjosemoraleschacon
- * @version 1.0
+ * @version 1.1
+ *@see Punto2D
  */
 public class MatricesObjetos 
 {
