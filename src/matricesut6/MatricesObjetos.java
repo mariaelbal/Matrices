@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  *
  * @author lucasjosemoraleschacon
+ * @version 1.0
  */
 public class MatricesObjetos 
 {
